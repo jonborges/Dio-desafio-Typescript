@@ -1,0 +1,19 @@
+* {
+    text-align: center;
+}
+
+.container {
+    background-color: #acdbc5;
+}
+
+.header {
+    background-color: #d8c7e9;
+    text-align: left;
+    font-weight: bold;
+    padding: 3px;
+}
+
+a { 
+    margin-left: 10px;
+
+}
